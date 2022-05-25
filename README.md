@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Saket Kumar Sahu
-- 👀 I’m a High Energy Physics enthusiast who also loves to code and use it to solve physics problem.
+- 👀 I’m a Particle Physics enthusiast who also loves to code.
 - 🌱 I’m currently learning Deep Learning and Database Management.
 - 📫 You can contact me by mail: saketkumarsahu18@gmail.com
 
