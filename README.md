@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Saket Kumar Sahu
-- 👀 I’m a Particle Physics enthusiast who also loves to code.
-- 🌱 I’m currently learning Deep Learning and Database Management.
+- 👀 I’m a Hadron Physics enthusiast who also enjoys vibe coding with my agentic AI.
+- 🌱 I’m currently working on proton-proton collision data analysis with the HADES Experiment at GSI,Germany.
 - 📫 You can contact me by mail: saketkumarsahu18@gmail.com
 
 <!---
